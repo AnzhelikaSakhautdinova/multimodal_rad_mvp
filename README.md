@@ -68,21 +68,15 @@ project/
 
 ```text
 Клонировать репозиторий:
-
-git clone <ссылка_на_репозиторий>
-cd project
+git clone https://github.com/AnzhelikaSakhautdinova/multimodal_rad_mvp
 
 Установить зависимости:
-
 pip install -r requirements.txt
-Запуск проекта
 
 Построение индекса:
-
 python build_index.py
 
 Запуск Telegram-бота:
-
 python bot.py
 ```
 
@@ -102,5 +96,5 @@ python bot.py
 Сахаутдинова Анжелика
 Фида Александр
 
-Данный проект реализован в рамках учебного проекта
+Данный репозиторий создан в рамках учебного проекта.
 ```
